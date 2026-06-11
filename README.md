@@ -1,1 +1,1 @@
-# Hahahah
+vless://fbcfee92-afa2-4670-afce-aac5effbef33@37.32.22.145:49231?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&ech=AGT%2BDQBgAAAgACA4uvEgOjWc2lsk%2FqHyCkmhn27NEZZTvDHNhcx5yZBfIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABF2aXAubXVidXR1dnBuLnRvcAAA&type=tcp&allowInsecure=0&sni=vip.mubutuvpn.top#%E2%80%8B%F0%9F%87%A9%F0%9F%87%AA%20DE%20-%20Frankfurt%20%7C%20Prime%20%F0%9F%91%91
